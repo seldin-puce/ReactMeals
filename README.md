@@ -8,7 +8,7 @@ To run the Expense Tracker project on your local machine, follow these steps:
 1. Clone the repository:
 
 ```console
-git clone git@github.com:seldin-puce/goals-tracker.git
+git clone git@github.com:seldin-puce/react-meals.git
 ```    
 
 2. Navigate to the project directory:
